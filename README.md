@@ -9,9 +9,14 @@
     - `3D`: Create Excel from Mongo Database Collection.
 
 
-Note: Your code will be evaluated based on best practices, linting, error handling and structure of projects. Proper logging can earn brownie points.
+Note: Your code will be evaluated based on best practices, linting, error handling and structure of projects.
 
-Note: Assignment submitted with copy paste of will be rejected. But use of google search and copying useful information is encouraged.
+Note: Assignment submitted with copy paste of existing npm package or git repo will be rejected. But use of google search and copying useful information is encouraged.
+
+### Nice to haves
+- Proper logging can earn brownie points.
+- Documentation
+- Proper git commit history. Create small git commits
 
 ### `Task 3A`
 You have to show standard techniques for authentication like OAuth, JWT with refresh token implementation. You are free to use any server (Express or other) or database of your choice. But it must be complete project with APIs like login, register.
